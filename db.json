@@ -1,0 +1,44 @@
+{
+  "mesas": [
+    {
+      "id": "1",
+      "ocupada": true,
+      "pedido": []
+    },
+    {
+      "id": "2",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "3",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "4",
+      "ocupada": false,
+      "pedido": []
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Cerveza",
+      "precio": 5000,
+      "logo": "cerveza.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Whisky",
+      "precio": 20000,
+      "logo": "whiskey.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Ron",
+      "precio": 15000,
+      "logo": "ron.jpg"
+    }
+  ]
+}
