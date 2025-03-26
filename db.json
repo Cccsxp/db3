@@ -2,7 +2,7 @@
   "mesas": [
     {
       "id": "1",
-      "ocupada": true,
+      "ocupada": false,
       "pedido": []
     },
     {
@@ -19,6 +19,31 @@
       "id": "4",
       "ocupada": false,
       "pedido": []
+    },
+    {
+      "id": "5",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "6",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "7",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "8",
+      "ocupada": false,
+      "pedido": []
+    },
+    {
+      "id": "10",
+      "ocupada": false,
+      "pedido": []
     }
   ],
   "productos": [
@@ -26,19 +51,37 @@
       "id": "1",
       "nombre": "Cerveza",
       "precio": 5000,
-      "logo": "cerveza.jpg"
+      "logo": "/img/cerveza.jpg"
     },
     {
       "id": "2",
       "nombre": "Whisky",
       "precio": 20000,
-      "logo": "whiskey.jpg"
+      "logo": "/img/whiskey.jpg"
     },
     {
       "id": "3",
       "nombre": "Ron",
       "precio": 15000,
-      "logo": "ron.jpg"
+      "logo": "/img/ron.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Azúcar",
+      "precio": 200,
+      "logo": ""
+    },
+    {
+      "id": "6632",
+      "nombre": "arroz",
+      "precio": 234,
+      "logo": "dsdds"
+    },
+    {
+      "id": "ae6b",
+      "nombre": "Poker",
+      "precio": 3500,
+      "logo": ""
     }
   ]
 }
