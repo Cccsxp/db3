@@ -39,11 +39,6 @@
       "id": "8",
       "ocupada": false,
       "pedido": []
-    },
-    {
-      "id": "10",
-      "ocupada": false,
-      "pedido": []
     }
   ],
   "productos": [
@@ -82,6 +77,48 @@
       "nombre": "Poker",
       "precio": 3500,
       "logo": ""
+    }
+  ],
+  "historialVentas": [
+    {
+      "id": "900f",
+      "mesa": "2",
+      "fecha": "2025-03-26T18:07:57.676Z",
+      "pedido": [
+        {
+          "id": "4",
+          "nombre": "Azúcar",
+          "precio": 200,
+          "logo": "",
+          "cantidad": 1,
+          "total": 200
+        }
+      ],
+      "total": 200
+    },
+    {
+      "id": "86ad",
+      "mesa": "2",
+      "fecha": "2025-03-26T18:15:44.289Z",
+      "pedido": [
+        {
+          "id": "3",
+          "nombre": "Ron",
+          "precio": 15000,
+          "logo": "/img/ron.jpg",
+          "cantidad": 2,
+          "total": 30000
+        },
+        {
+          "id": "2",
+          "nombre": "Whisky",
+          "precio": 20000,
+          "logo": "/img/whiskey.jpg",
+          "cantidad": 1,
+          "total": 20000
+        }
+      ],
+      "total": 50000
     }
   ]
 }
